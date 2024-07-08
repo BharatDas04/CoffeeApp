@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "CoffeeApp",
+    "slug": "CoffeeApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bharat_das.CoffeeApp"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "6b8582a0-9c38-48f6-b47d-418339030aaf"
+      }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}

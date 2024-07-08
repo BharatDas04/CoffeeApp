@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Cappuccino",
+    "type": "Espresso-based",
+    "cost": 3.5,
+    "description": "A rich, bold espresso combined with velvety steamed milk and topped with a thick layer of creamy foam. Cappuccino offers a perfect balance of flavors and textures in every sip, making it a favorite choice for coffee enthusiasts.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/39f/e1bbc74d2a3233d165e4ca16d1bd839f.jpg",
+    "tags": ["cappuccino", "espresso-based", "all"],
+    "id": 18491
+  },
+
+  {
+    "name": "Mocha",
+    "type": "Espresso-based",
+    "cost": 4.5,
+    "description": "A delightful blend of rich espresso, steamed milk, and chocolate syrup, topped with whipped cream. Mocha offers a decadent flavor experience with a perfect balance of sweetness and bitterness, indulging your senses with every sip.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/023/4134de0db98fdedfa8adebfb49fd6023.jpg?output-format=webp",
+    "tags": ["mocha", "espresso", "all"],
+    "id": 18494
+  },
+  {
+    "name": "Macchiato",
+    "type": "Espresso-based",
+    "cost": 3.0,
+    "description": "A classic espresso-based drink with a dash of steamed milk and foam. Macchiato offers a bold coffee flavor with a hint of creaminess, perfect for those who prefer a strong coffee taste and appreciate a touch of sweetness.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/a9e/482b1b321d13e4a44b056d38a8ccca9e.jpg?output-format=webp",
+    "tags": ["macchiato", "espresso", "all"],
+    "id": 18495
+  },
+  {
+    "name": "Americano",
+    "type": "Espresso-based",
+    "cost": 3.0,
+    "description": "A simple yet satisfying coffee made by diluting a shot of espresso with hot water. Americano offers a smooth and robust flavor profile, ideal for those who enjoy a milder coffee taste and appreciate the pure essence of coffee.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/081/ab10010e2cb8a681752f600d076c0081.jpg?output-format=webp",
+    "tags": ["americano", "espresso", "all"],
+    "id": 18496
+  },
+  {
+    "name": "Flat White",
+    "type": "Espresso-based",
+    "cost": 4.5,
+    "description": "A velvety-smooth coffee made with a double shot of espresso and creamy steamed milk. Flat White offers a balanced flavor with a subtle sweetness and a silky texture, perfect for coffee lovers seeking a luxurious and indulgent experience.",
+    "image_link": "https://b.zmtcdn.com/data/pictures/4/4864/4973201de9270d8b703f822655472751_o2_featured_v2.jpg?output-format=webp",
+    "tags": ["flat white", "espresso", "all"],
+    "id": 18497
+  },
+  {
+    "name": "Affogato",
+    "type": "Espresso-based dessert",
+    "cost": 5.0,
+    "description": "An indulgent dessert made with a scoop of vanilla ice cream drowned in a shot of hot espresso. Affogato offers a delightful combination of hot and cold, bitter and sweet flavors, creating a heavenly treat for your taste buds.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/8a9/34b864c02b266273b2ff02ae376db8a9.jpg?output-format=webp",
+    "tags": ["affogato", "espresso", "all"],
+    "id": 18498
+  },
+  {
+    "name": "Turkish Coffee",
+    "type": "Traditional method",
+    "cost": 3.5,
+    "description": "A traditional coffee brewing method that involves simmering finely-ground coffee beans with water and sugar in a special pot called a cezve. Turkish Coffee offers a rich and aromatic flavor experience with a thick texture, capturing the essence of centuries-old coffee culture.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/c16/3bd34218f4401d3e26f370821a1efc16.jpg?output-format=webp",
+    "tags": ["turkish", "traditional", "all"],
+    "id": 18499
+  },
+  {
+    "name": "Espresso",
+    "type": "Short black coffee",
+    "cost": 2.5,
+    "description": "A strong and concentrated coffee made by forcing hot water through finely-ground coffee beans. Espresso delivers a bold and intense flavor experience with a rich crema on top, providing an invigorating boost to kickstart your day.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/364/8ef76c9466aeae917d81c92762716364.jpg?output-format=webp",
+    "tags": ["espresso", "espresso-based", "all"],
+    "id": 18492
+  },
+  {
+    "name": "Latte",
+    "type": "Espresso-based",
+    "cost": 4.0,
+    "description": "A smooth and creamy coffee drink made with a shot of espresso and steamed milk. Latte offers a mild flavor profile with a hint of sweetness, perfect for coffee enthusiasts seeking a comforting and satisfying beverage.",
+    "image_link": "https://b.zmtcdn.com/data/dish_photos/9f5/5e7adeb9a1b94ffb6638a67a7e6b59f5.jpg?output-format=webp",
+    "tags": ["latte", "espresso", "all"],
+    "id": 18493
+  }
+]
